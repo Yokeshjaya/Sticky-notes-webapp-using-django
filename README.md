@@ -1,4 +1,4 @@
-# Sticky-notes-webapp-using-flask
+# Sticky-notes-webapp-using-django
 
 index.html  - specifies the UI of the webapp it alligns the content and decorates it.
 
